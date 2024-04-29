@@ -1,0 +1,11 @@
+header {
+  background-color: #c6538c;
+}
+
+.btn {
+  padding: 10px 20px;
+}
+.btn:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}/*# sourceMappingURL=FunctionComponent.css.map */
